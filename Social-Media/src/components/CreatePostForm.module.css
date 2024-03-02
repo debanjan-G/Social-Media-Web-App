@@ -1,0 +1,12 @@
+.formContainer {
+    margin: 10px;
+    
+}
+
+.formContainer label{
+    font-size: 1.25rem;
+}
+
+.contentBox{
+    resize: none;
+}

@@ -1,0 +1,11 @@
+.appContainer {
+  display: flex;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.content {
+  width: 100%;
+}

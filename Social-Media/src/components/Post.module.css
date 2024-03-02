@@ -1,0 +1,30 @@
+.individualPostContainer {
+  height: fit-content;
+  margin: 50px auto;
+  padding: 10px;
+  max-width: 50rem;
+  min-width: 15rem;
+}
+
+.reactions {
+  width: fit-content;
+  margin: auto;
+}
+
+.badge {
+  min-width: 100px;
+  padding: 10px;
+}
+
+.badgeSpan {
+  margin: 5px;
+}
+
+.deleteIcon {
+  font-size: 1rem;
+}
+
+.deleteBtn {
+  border: none;
+
+}

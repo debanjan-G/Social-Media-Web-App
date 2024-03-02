@@ -1,0 +1,10 @@
+.noPostMsg {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 100px;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.container {
+    text-align: center;
+}
